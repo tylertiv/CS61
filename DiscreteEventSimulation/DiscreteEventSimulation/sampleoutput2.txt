@@ -1,0 +1,455 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Menlo-Bold;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red31\green31\blue36;}
+{\*\expandedcolortbl;;\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c12157\c12157\c14118;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab593
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf2 \cb3 Enter number of seats between 20 and 100: 
+\f1\b0 80
+\f0\b \
+Time: 2 Group of 3 customers arrives Group is seated\
+Time: 5 Group of 2 customers arrives Group is seated\
+Time: 5 serviced order for Local beer (1)\
+Time: 5 serviced order for Imported beer (2)\
+Time: 5 serviced order for Imported beer (2)\
+Time: 7 Group of 3 customers arrives Group is seated\
+Time: 10 Group of 3 customers arrives Group is seated\
+Time: 10 serviced order for Special beer (3)\
+Time: 10 serviced order for Imported beer (2)\
+Time: 12 Group of 4 customers arrives Group is seated\
+Time: 13 serviced order for Imported beer (2)\
+Time: 13 serviced order for Imported beer (2)\
+Time: 13 serviced order for Special beer (3)\
+Time: 16 serviced order for Imported beer (2)\
+Time: 16 serviced order for Special beer (3)\
+Time: 16 serviced order for Imported beer (2)\
+Time: 16 Group of 3 customers arrives Group is seated\
+Time: 18 serviced order for Imported beer (2)\
+Time: 18 serviced order for Imported beer (2)\
+Time: 18 serviced order for Imported beer (2)\
+Time: 18 serviced order for Imported beer (2)\
+Time: 18 Group of 5 customers arrives Group is seated\
+Time: 20 Group of 3 customers arrives Group is seated\
+Time: 21 serviced order for Imported beer (2)\
+Time: 21 serviced order for Special beer (3)\
+Time: 21 serviced order for Imported beer (2)\
+Time: 24 Group of 2 customers arrives Group is seated\
+Time: 25 serviced order for Imported beer (2)\
+Time: 25 serviced order for Local beer (1)\
+Time: 25 serviced order for Imported beer (2)\
+Time: 26 Group of 2 customers arrives Group is seated\
+Time: 26 serviced order for Special beer (3)\
+Time: 26 serviced order for Imported beer (2)\
+Time: 26 serviced order for Imported beer (2)\
+Time: 26 serviced order for Local beer (1)\
+Time: 26 serviced order for Imported beer (2)\
+Time: 26 serviced order for Imported beer (2)\
+Time: 26 serviced order for Imported beer (2)\
+Time: 30 Group of 2 customers arrives Group is seated\
+Time: 32 serviced order for Imported beer (2)\
+Time: 32 serviced order for Imported beer (2)\
+Time: 32 serviced order for Imported beer (2)\
+Time: 32 serviced order for Imported beer (2)\
+Time: 33 Group of 4 customers arrives Group is seated\
+Time: 35 Group of 2 customers arrives Group is seated\
+Group of 3 reordering: \
+Time: 36 serviced order for Imported beer (2)\
+Time: 36 serviced order for Local beer (1)\
+Time: 36 serviced order for Imported beer (2)\
+Time: 36 serviced order for Local beer (1)\
+Time: 36 serviced order for Imported beer (2)\
+Time: 36 serviced order for Imported beer (2)\
+Time: 36 serviced order for Special beer (3)\
+Group of 4 reordering: \
+Time: 38 Group of 5 customers arrives Group is seated\
+Time: 38 serviced order for Imported beer (2)\
+Time: 38 serviced order for Imported beer (2)\
+Time: 38 serviced order for Imported beer (2)\
+Time: 38 serviced order for Imported beer (2)\
+Time: 40 Group of 4 customers arrives Group is seated\
+Time: 41 serviced order for Imported beer (2)\
+Time: 41 serviced order for Imported beer (2)\
+Time: 43 Group of 4 customers arrives Group is seated\
+Time: 43 serviced order for Imported beer (2)\
+Time: 43 serviced order for Imported beer (2)\
+Time: 43 serviced order for Local beer (1)\
+Time: 43 serviced order for Special beer (3)\
+Time: 43 serviced order for Special beer (3)\
+Group of 3 reordering: \
+Time: 43 serviced order for Special beer (3)\
+Time: 43 serviced order for Imported beer (2)\
+Time: 43 serviced order for Imported beer (2)\
+Time: 47 Group of 4 customers arrives Group is seated\
+Time: 48 serviced order for Imported beer (2)\
+Time: 48 serviced order for Special beer (3)\
+Time: 48 serviced order for Local beer (1)\
+Time: 48 serviced order for Imported beer (2)\
+Group of 2 reordering: \
+Time: 48 serviced order for Special beer (3)\
+Time: 48 serviced order for Local beer (1)\
+Time: 50 serviced order for Imported beer (2)\
+Time: 50 serviced order for Special beer (3)\
+Time: 50 serviced order for Imported beer (2)\
+Time: 50 serviced order for Local beer (1)\
+Time: 51 Group of 2 customers arrives Group is seated\
+Time: 52 serviced order for Imported beer (2)\
+Time: 52 serviced order for Imported beer (2)\
+Time: 52 serviced order for Imported beer (2)\
+Time: 52 serviced order for Imported beer (2)\
+Time: 54 Group of 5 customers arrives Group is seated\
+Time: 55 serviced order for Special beer (3)\
+Time: 55 serviced order for Local beer (1)\
+Time: 56 Group of 5 customers arrives Group is seated\
+Group of 5 reordering: \
+Time: 57 serviced order for Imported beer (2)\
+Time: 57 serviced order for Imported beer (2)\
+Time: 57 serviced order for Local beer (1)\
+Time: 57 serviced order for Local beer (1)\
+Time: 57 serviced order for Special beer (3)\
+Time: 59 Group of 2 customers arrives Group is seated\
+Time: 61 serviced order for Imported beer (2)\
+Time: 61 serviced order for Imported beer (2)\
+Time: 61 serviced order for Imported beer (2)\
+Time: 61 serviced order for Special beer (3)\
+Time: 61 serviced order for Imported beer (2)\
+Group of 2 reordering: \
+Time: 61 serviced order for Imported beer (2)\
+Time: 61 serviced order for Imported beer (2)\
+Group of 4 reordering: \
+Time: 62 serviced order for Imported beer (2)\
+Time: 62 serviced order for Special beer (3)\
+Time: 62 serviced order for Imported beer (2)\
+Time: 62 serviced order for Special beer (3)\
+Time: 63 Group of 5 customers arrives Group is seated\
+Time: 64 serviced order for Local beer (1)\
+Time: 64 serviced order for Imported beer (2)\
+Time: 64 serviced order for Special beer (3)\
+Time: 64 serviced order for Special beer (3)\
+Time: 64 serviced order for Imported beer (2)\
+Time: 65 Group of 1 customers arrives Group is seated\
+Time: 67 serviced order for Imported beer (2)\
+Time: 67 serviced order for Imported beer (2)\
+Time: 67 Group of 3 customers arrives Group is seated\
+Time: 68 serviced order for Special beer (3)\
+Time: 68 serviced order for Imported beer (2)\
+Time: 68 serviced order for Imported beer (2)\
+Time: 68 serviced order for Imported beer (2)\
+Time: 68 serviced order for Local beer (1)\
+Group of 3 reordering: \
+Time: 68 serviced order for Imported beer (2)\
+Time: 68 serviced order for Imported beer (2)\
+Time: 68 serviced order for Imported beer (2)\
+Time: 69 serviced order for Imported beer (2)\
+Time: 69 serviced order for Imported beer (2)\
+Time: 69 serviced order for Imported beer (2)\
+Time: 70 serviced order for Local beer (1)\
+Time: 71 Group of 1 customers arrives Group is seated\
+Group of 2 reordering: \
+Time: 73 Group of 3 customers arrives Group is seated\
+ No room, group leaves\
+Time: 73 serviced order for Imported beer (2)\
+Time: 73 serviced order for Imported beer (2)\
+Group of 4 reordering: \
+Time: 74 serviced order for Special beer (3)\
+Time: 74 serviced order for Imported beer (2)\
+Time: 74 serviced order for Special beer (3)\
+Time: 74 serviced order for Imported beer (2)\
+Time: 77 serviced order for Imported beer (2)\
+Time: 77 Group of 1 customers arrives Group is seated\
+Time: 81 serviced order for Special beer (3)\
+Group of 4 reordering: \
+Time: 81 serviced order for Imported beer (2)\
+Time: 81 serviced order for Imported beer (2)\
+Time: 81 serviced order for Imported beer (2)\
+Time: 81 serviced order for Special beer (3)\
+Time: 81 Group of 5 customers arrives Group is seated\
+Time: 84 serviced order for Imported beer (2)\
+Time: 84 serviced order for Imported beer (2)\
+Time: 84 serviced order for Imported beer (2)\
+Time: 84 serviced order for Imported beer (2)\
+Time: 84 serviced order for Imported beer (2)\
+Time: 84 Group of 3 customers arrives Group is seated\
+Group of 3 reordering: \
+Time: 85 serviced order for Imported beer (2)\
+Time: 85 serviced order for Local beer (1)\
+Time: 85 serviced order for Local beer (1)\
+Time: 86 Group of 2 customers arrives Group is seated\
+Time: 88 serviced order for Imported beer (2)\
+Time: 88 serviced order for Imported beer (2)\
+Time: 88 serviced order for Imported beer (2)\
+Time: 90 serviced order for Special beer (3)\
+Time: 90 serviced order for Imported beer (2)\
+Time: 90 Group of 5 customers arrives Group is seated\
+Time: 92 Group of 5 customers arrives Group is seated\
+Group of 2 reordering: \
+Time: 92 serviced order for Special beer (3)\
+Time: 92 serviced order for Imported beer (2)\
+Time: 96 Group of 2 customers arrives Group is seated\
+Group of 1 reordering: \
+Group of 5 reordering: \
+Time: 96 serviced order for Imported beer (2)\
+Time: 96 serviced order for Local beer (1)\
+Time: 96 serviced order for Imported beer (2)\
+Time: 96 serviced order for Imported beer (2)\
+Time: 96 serviced order for Imported beer (2)\
+Time: 96 serviced order for Special beer (3)\
+Time: 97 serviced order for Imported beer (2)\
+Time: 97 serviced order for Imported beer (2)\
+Time: 97 serviced order for Local beer (1)\
+Time: 97 serviced order for Imported beer (2)\
+Time: 97 serviced order for Local beer (1)\
+Time: 99 Group of 3 customers arrives Group is seated\
+Time: 99 serviced order for Special beer (3)\
+Time: 99 serviced order for Imported beer (2)\
+Time: 99 serviced order for Special beer (3)\
+Time: 99 serviced order for Imported beer (2)\
+Time: 99 serviced order for Imported beer (2)\
+Time: 100 serviced order for Imported beer (2)\
+Time: 100 serviced order for Local beer (1)\
+Time: 103 Group of 5 customers arrives Group is seated\
+Time: 106 Group of 1 customers arrives Group is seated\
+Time: 106 serviced order for Local beer (1)\
+Time: 106 serviced order for Imported beer (2)\
+Time: 106 serviced order for Imported beer (2)\
+Time: 106 serviced order for Special beer (3)\
+Time: 106 serviced order for Imported beer (2)\
+Time: 106 serviced order for Imported beer (2)\
+Time: 106 serviced order for Local beer (1)\
+Time: 106 serviced order for Local beer (1)\
+Time: 109 Group of 3 customers arrives Group is seated\
+Time: 112 Group of 4 customers arrives Group is seated\
+Group of 2 reordering: \
+Time: 113 serviced order for Special beer (3)\
+Time: 113 serviced order for Imported beer (2)\
+Group of 1 reordering: \
+Time: 114 serviced order for Imported beer (2)\
+Time: 114 serviced order for Special beer (3)\
+Time: 114 serviced order for Special beer (3)\
+Time: 114 serviced order for Imported beer (2)\
+Time: 115 serviced order for Imported beer (2)\
+Time: 116 Group of 4 customers arrives Group is seated\
+Group of 5 reordering: \
+Time: 119 serviced order for Local beer (1)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Imported beer (2)\
+Time: 119 serviced order for Special beer (3)\
+Time: 120 Group of 3 customers arrives Group is seated\
+Time: 120 serviced order for Imported beer (2)\
+Time: 120 serviced order for Special beer (3)\
+Time: 120 serviced order for Imported beer (2)\
+Time: 120 serviced order for Imported beer (2)\
+Time: 123 Group of 3 customers arrives Group is seated\
+Time: 126 Group of 1 customers arrives Group is seated\
+Time: 126 serviced order for Imported beer (2)\
+Time: 126 serviced order for Imported beer (2)\
+Time: 126 serviced order for Imported beer (2)\
+Time: 126 serviced order for Imported beer (2)\
+Time: 126 serviced order for Imported beer (2)\
+Time: 126 serviced order for Special beer (3)\
+Time: 128 Group of 4 customers arrives Group is seated\
+Group of 2 reordering: \
+Time: 130 serviced order for Imported beer (2)\
+Time: 130 serviced order for Imported beer (2)\
+Time: 131 Group of 3 customers arrives Group is seated\
+Time: 134 serviced order for Local beer (1)\
+Time: 135 Group of 4 customers arrives Group is seated\
+Time: 135 serviced order for Special beer (3)\
+Time: 135 serviced order for Special beer (3)\
+Time: 135 serviced order for Local beer (1)\
+Time: 135 serviced order for Special beer (3)\
+Time: 139 Group of 3 customers arrives Group is seated\
+Time: 140 serviced order for Imported beer (2)\
+Time: 140 serviced order for Local beer (1)\
+Time: 140 serviced order for Imported beer (2)\
+Time: 142 serviced order for Imported beer (2)\
+Time: 142 serviced order for Local beer (1)\
+Time: 142 serviced order for Special beer (3)\
+Time: 142 serviced order for Imported beer (2)\
+Time: 143 Group of 4 customers arrives Group is seated\
+Time: 143 serviced order for Special beer (3)\
+Time: 143 serviced order for Local beer (1)\
+Time: 143 serviced order for Imported beer (2)\
+Time: 145 Group of 2 customers arrives Group is seated\
+Time: 147 Group of 3 customers arrives Group is seated\
+Group of 3 reordering: \
+Time: 148 serviced order for Imported beer (2)\
+Time: 148 serviced order for Imported beer (2)\
+Time: 148 serviced order for Special beer (3)\
+Time: 149 serviced order for Imported beer (2)\
+Time: 149 serviced order for Local beer (1)\
+Time: 151 serviced order for Local beer (1)\
+Time: 151 serviced order for Imported beer (2)\
+Time: 151 serviced order for Special beer (3)\
+Time: 151 serviced order for Special beer (3)\
+Time: 151 Group of 3 customers arrives Group is seated\
+Time: 154 Group of 3 customers arrives Group is seated\
+Time: 155 serviced order for Imported beer (2)\
+Time: 155 serviced order for Local beer (1)\
+Time: 155 serviced order for Special beer (3)\
+Time: 155 serviced order for Imported beer (2)\
+Time: 155 serviced order for Special beer (3)\
+Time: 155 serviced order for Imported beer (2)\
+Time: 157 serviced order for Imported beer (2)\
+Time: 157 serviced order for Imported beer (2)\
+Time: 157 serviced order for Special beer (3)\
+Time: 157 Group of 2 customers arrives Group is seated\
+Time: 159 serviced order for Special beer (3)\
+Time: 159 serviced order for Imported beer (2)\
+Time: 161 Group of 3 customers arrives Group is seated\
+Time: 163 Group of 4 customers arrives Group is seated\
+Time: 164 serviced order for Imported beer (2)\
+Time: 164 serviced order for Local beer (1)\
+Time: 164 serviced order for Special beer (3)\
+Group of 2 reordering: \
+Time: 164 serviced order for Special beer (3)\
+Time: 164 serviced order for Imported beer (2)\
+Time: 165 serviced order for Imported beer (2)\
+Time: 165 serviced order for Imported beer (2)\
+Time: 165 serviced order for Local beer (1)\
+Time: 165 serviced order for Imported beer (2)\
+Time: 167 Group of 2 customers arrives Group is seated\
+Time: 170 Group of 3 customers arrives Group is seated\
+Time: 172 Group of 4 customers arrives Group is seated\
+Time: 173 serviced order for Imported beer (2)\
+Time: 173 serviced order for Imported beer (2)\
+Time: 176 Group of 2 customers arrives Group is seated\
+Time: 178 serviced order for Imported beer (2)\
+Time: 178 serviced order for Imported beer (2)\
+Time: 178 serviced order for Imported beer (2)\
+Time: 178 serviced order for Imported beer (2)\
+Time: 178 serviced order for Special beer (3)\
+Time: 179 Group of 3 customers arrives Group is seated\
+Time: 180 serviced order for Imported beer (2)\
+Time: 180 serviced order for Local beer (1)\
+Time: 180 serviced order for Special beer (3)\
+Time: 180 serviced order for Imported beer (2)\
+Time: 180 group of size 3 leaves\
+Time: 181 Group of 5 customers arrives Group is seated\
+Time: 184 Group of 4 customers arrives Group is seated\
+Time: 184 group of size 3 leaves\
+Time: 186 group of size 2 leaves\
+Time: 186 serviced order for Imported beer (2)\
+Time: 186 serviced order for Imported beer (2)\
+Time: 186 serviced order for Special beer (3)\
+Time: 186 serviced order for Imported beer (2)\
+Time: 186 serviced order for Special beer (3)\
+Time: 186 serviced order for Special beer (3)\
+Time: 186 serviced order for Special beer (3)\
+Time: 186 serviced order for Imported beer (2)\
+Time: 186 serviced order for Imported beer (2)\
+Time: 187 serviced order for Special beer (3)\
+Time: 187 serviced order for Special beer (3)\
+Time: 187 serviced order for Imported beer (2)\
+Time: 187 Group of 4 customers arrives Group is seated\
+Time: 189 group of size 4 leaves\
+Time: 190 Group of 3 customers arrives Group is seated\
+Time: 190 group of size 2 leaves\
+Time: 190 group of size 3 leaves\
+Time: 191 serviced order for Local beer (1)\
+Time: 191 serviced order for Special beer (3)\
+Time: 191 serviced order for Local beer (1)\
+Time: 191 serviced order for Imported beer (2)\
+Time: 192 Group of 1 customers arrives Group is seated\
+Time: 193 serviced order for Imported beer (2)\
+Time: 193 serviced order for Imported beer (2)\
+Time: 193 serviced order for Imported beer (2)\
+Time: 194 Group of 2 customers arrives Group is seated\
+Time: 195 serviced order for Special beer (3)\
+Time: 197 Group of 3 customers arrives Group is seated\
+Time: 199 Group of 4 customers arrives Group is seated\
+Time: 200 serviced order for Imported beer (2)\
+Time: 200 serviced order for Imported beer (2)\
+Time: 201 group of size 2 leaves\
+Time: 202 group of size 3 leaves\
+Time: 202 Group of 3 customers arrives Group is seated\
+Time: 202 group of size 3 leaves\
+Time: 205 Group of 1 customers arrives Group is seated\
+Time: 205 serviced order for Imported beer (2)\
+Time: 205 serviced order for Imported beer (2)\
+Time: 205 serviced order for Local beer (1)\
+Time: 205 serviced order for Imported beer (2)\
+Time: 205 serviced order for Imported beer (2)\
+Time: 205 serviced order for Imported beer (2)\
+Time: 206 group of size 4 leaves\
+Time: 207 serviced order for Special beer (3)\
+Time: 207 serviced order for Special beer (3)\
+Time: 207 serviced order for Imported beer (2)\
+Time: 207 serviced order for Special beer (3)\
+Time: 208 Group of 3 customers arrives Group is seated\
+Time: 210 Group of 3 customers arrives Group is seated\
+Time: 210 group of size 2 leaves\
+Time: 212 group of size 4 leaves\
+Time: 213 serviced order for Imported beer (2)\
+Time: 214 group of size 4 leaves\
+Time: 214 Group of 5 customers arrives Group is seated\
+Time: 215 serviced order for Imported beer (2)\
+Time: 215 serviced order for Imported beer (2)\
+Time: 215 serviced order for Local beer (1)\
+Time: 216 group of size 5 leaves\
+Time: 216 serviced order for Special beer (3)\
+Time: 216 serviced order for Imported beer (2)\
+Time: 216 serviced order for Imported beer (2)\
+Time: 217 Group of 2 customers arrives Group is seated\
+Time: 218 group of size 3 leaves\
+Time: 220 Group of 2 customers arrives Group is seated\
+Time: 220 serviced order for Special beer (3)\
+Time: 220 serviced order for Imported beer (2)\
+Time: 221 group of size 1 leaves\
+Time: 222 serviced order for Local beer (1)\
+Time: 222 serviced order for Imported beer (2)\
+Time: 222 group of size 2 leaves\
+Time: 223 Group of 4 customers arrives Group is seated\
+Time: 223 serviced order for Imported beer (2)\
+Time: 223 serviced order for Imported beer (2)\
+Time: 223 serviced order for Imported beer (2)\
+Time: 223 serviced order for Special beer (3)\
+Time: 223 serviced order for Imported beer (2)\
+Time: 225 group of size 3 leaves\
+Time: 225 serviced order for Special beer (3)\
+Time: 225 serviced order for Local beer (1)\
+Time: 225 serviced order for Imported beer (2)\
+Time: 225 serviced order for Imported beer (2)\
+Time: 226 Group of 2 customers arrives Group is seated\
+Time: 229 group of size 4 leaves\
+Time: 229 Group of 2 customers arrives Group is seated\
+Time: 230 group of size 3 leaves\
+Time: 232 group of size 1 leaves\
+Time: 232 serviced order for Imported beer (2)\
+Time: 232 serviced order for Imported beer (2)\
+Time: 233 Group of 4 customers arrives Group is seated\
+Time: 233 serviced order for Imported beer (2)\
+Time: 233 serviced order for Local beer (1)\
+Time: 234 group of size 3 leaves\
+Time: 237 Group of 4 customers arrives Group is seated\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Local beer (1)\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Imported beer (2)\
+Time: 239 serviced order for Special beer (3)\
+Time: 240 group of size 5 leaves\
+Time: 241 Group of 4 customers arrives Group is seated\
+Time: 242 group of size 2 leaves\
+Time: 243 group of size 2 leaves\
+Time: 243 serviced order for Special beer (3)\
+Time: 243 serviced order for Special beer (3)\
+Time: 243 serviced order for Imported beer (2)\
+Time: 243 serviced order for Imported beer (2)\
+Time: 245 group of size 4 leaves\
+Time: 248 group of size 3 leaves\
+Time: 261 group of size 4 leaves\
+Time: 262 group of size 4 leaves\
+Time: 265 group of size 2 leaves\
+Time: 265 group of size 2 leaves\
+Time: 271 group of size 4 leaves\
+Total profits: $950\
+Program ended with exit code: 0}
